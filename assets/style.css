@@ -1,1 +1,33 @@
-/*hello css*/
+body{
+	color: #4A2600;
+	margin: 0;
+}
+
+.menu-bar {
+	display: inline-block;
+	width: 25%;
+	float: left;
+	font-size: 40px;
+	background-color: #FFFFFF;
+}
+
+#about, #menu, #delivery{
+	padding-top: 118px;
+}
+
+#content {
+	width: 100%;
+	text-align: center;
+	background-color: #5093AB;
+	font-size: 40px;
+}
+
+.info {
+	width: 50%;
+	margin: 0 auto;
+	text-align: left;
+}
+
+p {
+	margin: 0;
+}
